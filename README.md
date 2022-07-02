@@ -8,6 +8,7 @@
 Нажмите Ctrl + J и выберите «Сохранить». Это нормально, поскольку в архиве и установщике содержится необходимый для работы SampFuncs, на которые ругаются браузеры.
 <br>
 Подробная инструкция есть в [этой](https://soft-setup.ru/razreshit-skachivanie-fajla-kotoryj-google-chrome-blokiruet/) статье.
+
 [:arrow_up: Оглавление](#Bank-Helper) 
 
 ## При установке на лаунчер Arizona
