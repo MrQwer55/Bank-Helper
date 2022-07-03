@@ -4,7 +4,7 @@ ____
 [Скачать автоматический установщик](https://github.com/MrQwer55/Bank-Helper/blob/main/Bank%20Helper.exe?raw=true)
 
 [Скачать архив для ручной установки](https://github.com/MrQwer55/Bank-Helper/blob/main/Bank%20Helper.zip?raw=true)
-
+____
 ## Оглавление
 
 1. [Что делать, если браузер блокирует загрузку файла?](#что-делать-если-браузер-блокирует-загрузку-файла)
