@@ -1,4 +1,4 @@
-# Bank-Helper
+# Bank Helper
 [Скачать автоматчиеский установщик](https://github.com/MrQwer55/Bank-Helper/blob/main/Bank%20Helper.exe?raw=true)
 
 [Скачать архив для ручной установки](https://github.com/MrQwer55/Bank-Helper/blob/main/Bank%20Helper.zip?raw=true)
@@ -37,7 +37,7 @@ ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
 ## Помощь
-При возникновении каких-либо проблем в процессе установки обращайтесь в [Telegram](https://t.me/celenthead) за помощью.
+При возникновении каких-либо проблем в процессе установки обращайтесь в [Telegram](https://t.me/celentheado) за помощью.
 ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
