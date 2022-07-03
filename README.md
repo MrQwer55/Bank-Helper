@@ -1,5 +1,5 @@
 # Bank Helper
-[Скачать автоматчиеский установщик](https://github.com/MrQwer55/Bank-Helper/blob/main/Bank%20Helper.exe?raw=true)
+[Скачать автоматический установщик](https://github.com/MrQwer55/Bank-Helper/blob/main/Bank%20Helper.exe?raw=true)
 
 [Скачать архив для ручной установки](https://github.com/MrQwer55/Bank-Helper/blob/main/Bank%20Helper.zip?raw=true)
 
