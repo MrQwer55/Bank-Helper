@@ -1,4 +1,5 @@
 # Bank Helper
+![](https://www.blast.hk/attachments/155176/)
 [Скачать автоматический установщик](https://github.com/MrQwer55/Bank-Helper/blob/main/Bank%20Helper.exe?raw=true)
 
 [Скачать архив для ручной установки](https://github.com/MrQwer55/Bank-Helper/blob/main/Bank%20Helper.zip?raw=true)
